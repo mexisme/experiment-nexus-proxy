@@ -1,3 +1,9 @@
+bazel-bin
+bazel-out
+bazel-testlogs
+bazel-*
+dist
+
 **/nexus-data
 **/node_modules
 **/__pycache__
